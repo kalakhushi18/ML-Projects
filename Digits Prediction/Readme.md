@@ -12,6 +12,7 @@ Each pixel has a value from 0-16, representing intensity
 Target values are the actual digits (0-9)
 
 **Requirements**
+
 numpy
 pandas
 scikit-learn
@@ -35,9 +36,11 @@ Train model on training data
 Make predictions on test data
 
 **Results Visualization**
+
 The project includes:
 
 Sample digit images from the dataset
+
 Confusion matrix heatmap
 
 **Author**
