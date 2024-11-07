@@ -19,7 +19,6 @@ scikit-learn
 matplotlib
 seaborn
 
-**Implementation Details**
 
 **Data Preprocessing**
 
@@ -44,4 +43,5 @@ Sample digit images from the dataset
 Confusion matrix heatmap
 
 **Author**
+
 Khushi Kala
