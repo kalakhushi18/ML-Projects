@@ -57,7 +57,6 @@ The model demonstrates strong performance in classifying loan approval statuses,
 
 ## Requirements
 
-- Python 3.x
 - scikit-learn
 - pandas
 - numpy
