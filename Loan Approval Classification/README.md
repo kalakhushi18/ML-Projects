@@ -1,4 +1,3 @@
-Here's a GitHub README.md for your Loan Status Classification project:
 
 # Loan Status Classification
 
